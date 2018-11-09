@@ -24,6 +24,7 @@
 				"photo": "Restaurant photo",
 				"description": "Restaurant description",
 				"price": "10",
+				"Calories": "544",
 				"isveg": true
 			}
 
@@ -33,6 +34,7 @@
 				"qty": "20",
 				"category": "drinks",
 				"isalcoholic": false,
+				"Calories": "543",
 				"sizes": ["small", "large"]
 			}
 
