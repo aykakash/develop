@@ -1,0 +1,37 @@
+[
+  {
+    "logo": "//d305u1xvzud3tg.cloudfront.net/images/rest/thumbs/vijayawada-style-12194-web-2.jpeg",
+    "area": "Koramangala",
+    "address": "\nNo.63, JNC Road, 5th Block, 4th Cross Road, Industiral Layout, Kormangala, Bangalore",
+    "name": "Vijayawada Style",
+    "orderlink": "http://justeat.in/bangalore//bangalore/vijayawada-style-koramangala-5th-block-12194/menu",
+    "rating": "2.5",
+    "foodtype": " Andhra Style ",
+    "menus": [
+      {
+        "category": "Soup",
+        "price": "90",
+        "foodname": "Cream Of Tomato Soup",
+        "isveg": true
+      },
+      {
+        "category": "Soup",
+        "price": "90",
+        "foodname": "Veg Clear Soup",
+        "isveg": true
+      },
+      {
+        "category": "Soup",
+        "price": "90",
+        "foodname": "Veg Hot &amp; Sour Soup",
+        "isveg": true
+      },
+      {
+        "category": "Soup",
+        "price": "90",
+        "foodname": "Veg Manchow Soup",
+        "isveg": true
+      }
+    ]
+  }
+]
