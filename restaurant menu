@@ -1,0 +1,91 @@
+{
+  "fantasy-name": "Restaurant fantasy name",
+  "company name": "Restaurant company name",
+  "logo": "Restaurant logo",
+  "CNPJ": "Restaurant CNPJ",
+  "phone": "Restaurant phone",
+  "telephone": "Restaurant telephone",
+  "website": "Restaurant website",
+  "category": [
+    "Fast Food",
+    "Pizzaria",
+    "Bar/Pub",
+    "Lanchonete",
+    "Restaurante",
+    "Self-Service"
+  ],
+  "kitchen": [
+    "Brasileira",
+    "Japonesa",
+    "Tailandesa",
+    "Chinesa",
+    "Italiana"
+  ],
+  "operation-schedule": [
+    {
+      "day": "Restaurant day 1",
+      "open": "Restaurant open",
+      "close": "Restaurant close"
+    },
+    {
+      "day": "Restaurant day 2",
+      "open": "Restaurant open",
+      "close": "Restaurant close"
+    },
+    {
+      "day": "Restaurant day 3",
+      "open": "Restaurant open",
+      "close": "Restaurant close"
+    },
+    {
+      "day": "Restaurant day 4",
+      "open": "Restaurant open",
+      "close": "Restaurant close"
+    },
+    {
+      "day": "Restaurant day 5",
+      "open": "Restaurant open",
+      "close": "Restaurant close"
+    },
+    {
+      "day": "Restaurant day 6",
+      "open": "Restaurant open",
+      "close": "Restaurant close"
+    },
+    {
+      "day": "Restaurant day 7",
+      "open": "Restaurant open",
+      "close": "Restaurant close"
+    }
+  ],
+  "address": {
+    "country": "Restaurant country",
+    "city": "Restaurant city",
+    "street": "Restaurant street",
+    "complement": "Restaurant complement",
+    "state": "Restaurant state",
+    "neighborhood": "Restaurant neighborhood",
+    "number": "Restaurant number",
+    "zipcode": "Restaurant zip code"
+  },
+  "menu": [
+    {
+      "name": "Item name 1",
+      "photo": "Restaurant photo",
+      "description": "Restaurant description",
+      "price": 10,
+    },
+    {
+      "name": "Item name 2",
+      "photo": "Restaurant photo",
+      "description": "Restaurant description",
+      "price": 20,
+    },
+    {
+      "name": "Item name 3",
+      "photo": "Restaurant photo",
+      "description": "Restaurant description",
+      "price": 20,
+    }
+  ]
+}
