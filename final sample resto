@@ -3,19 +3,19 @@
 		"restaurant-name": "Big Yellow Door",
 		"company name": "Big Yellow Door",
 		"address": " H 8, Satya Niketan Rd, Opp. Venkateswara College, Satya Niketan, South Moti Bagh, New Delhi, Delhi 110021",
-		"logo": "Restaurant logo",
-		"phone": "Restaurant phone",
-		"telephone": "Restaurant telephone",
-		"website": "Restaurant website",
+		"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4l_2sYy4YT75w5mZXoC9lsdyPQ5Pptp1mGUxq9ECmLYI2VznE",
+		"phone": "7042054093","8700775331",
+		"telephone": "01225478965",
+		"website": "https://www.zomato.com/ncr/big-yellow-door-satyaniketan-new-delhi",
 		"Zomato rating": "2.5",
 		"openinghours": "10am - 11pm mon-sun",
 		"CUISINES": [
 			"Fast Food",
 			"Pizzaria",
-			"Bar/Pub",
-			"Lanchonete",
-			"Restaurante",
-			"Self-Service"
+			"cafe",
+			"italian",
+			"salad",
+			
 		],
 
 
