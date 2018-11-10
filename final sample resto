@@ -4,7 +4,7 @@
 		"company name": "Big Yellow Door",
 		"address": " H 8, Satya Niketan Rd, Opp. Venkateswara College, Satya Niketan, South Moti Bagh, New Delhi, Delhi 110021",
 		"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4l_2sYy4YT75w5mZXoC9lsdyPQ5Pptp1mGUxq9ECmLYI2VznE",
-		"phone": "7042054093","8700775331",
+		"phone": ["7042054093", "8700775331"],
 		"telephone": "01225478965",
 		"website": "https://www.zomato.com/ncr/big-yellow-door-satyaniketan-new-delhi",
 		"Zomato rating": "2.5",
@@ -14,8 +14,8 @@
 			"Pizzaria",
 			"cafe",
 			"italian",
-			"salad",
-			
+			"salad"
+
 		],
 
 
@@ -27,7 +27,7 @@
 				"Calories": "544",
 				"isveg": true
 			},
-      {
+			{
 				"foodname": "biryani",
 				"photo": "https://as1.ftcdn.net/jpg/00/35/13/50/500_F_35135040_20zc9QsYjOAwTmT68UhFr8wGWiXb3wvv.jpg",
 				"description": "biryani is very delicious food ",
@@ -35,7 +35,7 @@
 				"Calories": "674",
 				"isveg": true
 			},
-     {
+			{
 				"foodname": "tacos",
 				"photo": "https://images.pexels.com/photos/674578/pexels-photo-674578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
 				"description": "tacos is very delicious food ",
@@ -43,7 +43,7 @@
 				"Calories": "94",
 				"isveg": true
 			},
-      {
+			{
 				"foodname": "nachos",
 				"photo": "https://images.pexels.com/photos/1200354/pexels-photo-1200354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
 				"description": "nachos is very delicious food ",
@@ -51,16 +51,17 @@
 				"Calories": "874",
 				"isveg": true
 			},
-      {
+			{
 				"foodname": "pasta",
 				"photo": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
 				"description": "pasta is very delicious food ",
 				"price": "50$",
 				"Calories": "597",
 				"isveg": true
-			}],
-      
-      
+			}
+		],
+
+
 		"Drink menu": [{
 				"drinkname": "lassi",
 				"photo": "https://as2.ftcdn.net/jpg/00/58/32/43/500_F_58324385_NcB6PYKL7O0BLgvzZMdTMA59OrpszQ5D.jpg",
@@ -68,8 +69,8 @@
 				"price": "5$",
 				"Calories": "654",
 				"isalcoholic": false
-				
-				
+
+
 			},
 			{
 				"drinkname": "cold drink",
@@ -78,8 +79,8 @@
 				"price": "15$",
 				"Calories": "43",
 				"isalcoholic": false
-				
-				
+
+
 			},
 			{
 				"drinkname": "mango smoothy",
@@ -88,8 +89,8 @@
 				"price": "25$",
 				"Calories": "73",
 				"isalcoholic": false
-				
-				
+
+
 			},
 			{
 				"drinkname": "vanila shake",
@@ -98,8 +99,8 @@
 				"price": "35$",
 				"Calories": "83",
 				"isalcoholic": false
-				
-				
+
+
 			},
 			{
 				"drinkname": "virgin mojito",
@@ -108,12 +109,12 @@
 				"price": "45$",
 				"Calories": "93",
 				"isalcoholic": false
-				
-				
+
+
 			}
-      ]
-      
-      
-      
-		}]
-	}
+		]
+
+
+
+	}]
+}
