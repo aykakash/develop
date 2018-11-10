@@ -1,0 +1,111 @@
+{
+	"restraurantdata": [{
+		"restaurant-name": "Big Yellow Door",
+		"company name": "Restaurant company name",
+		"address": "\nNo.63, JNC Road, 5th Block, 4th Cross Road, Industiral Layout, Kormangala, Bangalore",
+		"logo": "Restaurant logo",
+		"phone": "Restaurant phone",
+		"telephone": "Restaurant telephone",
+		"website": "Restaurant website",
+		"Zomato rating": "2.5",
+		"openinghours": "10am - 11pm mon-sun",
+		"CUISINES": [
+			"Fast Food",
+			"Pizzaria",
+			"Bar/Pub",
+			"Lanchonete",
+			"Restaurante",
+			"Self-Service"
+		],
+
+
+		"food menu": [{
+				"foodname": "Item name 1",
+				"photo": "Restaurant photo",
+				"description": "Restaurant description",
+				"price": "10",
+				"Calories": "544",
+				"isveg": true
+			},
+      {
+				"foodname": "Item name 1",
+				"photo": "Restaurant photo",
+				"description": "Restaurant description",
+				"price": "10",
+				"Calories": "544",
+				"isveg": true
+			},
+      {
+				"foodname": "Item name 1",
+				"photo": "Restaurant photo",
+				"description": "Restaurant description",
+				"price": "10",
+				"Calories": "544",
+				"isveg": true
+			},
+      {
+				"foodname": "Item name 1",
+				"photo": "Restaurant photo",
+				"description": "Restaurant description",
+				"price": "10",
+				"Calories": "544",
+				"isveg": true
+			},
+      {
+				"foodname": "Item name 1",
+				"photo": "Restaurant photo",
+				"description": "Restaurant description",
+				"price": "10",
+				"Calories": "544",
+				"isveg": true
+			}],
+      
+      
+		"Drink menu": [{
+				"drinkname": "water",
+				"qty": "20",
+				"category": "drinks",
+				"isalcoholic": false,
+				"Calories": "543",
+				"sizes": ["small", "large"]
+			},
+      {
+				"drinkname": "water",
+				"qty": "20",
+				"category": "drinks",
+				"isalcoholic": false,
+				"Calories": "543",
+				"sizes": ["small", "large"]
+			},
+      
+      {
+				"drinkname": "water",
+				"qty": "20",
+				"category": "drinks",
+				"isalcoholic": false,
+				"Calories": "543",
+				"sizes": ["small", "large"]
+			},
+      
+      {
+				"drinkname": "water",
+				"qty": "20",
+				"category": "drinks",
+				"isalcoholic": false,
+				"Calories": "543",
+				"sizes": ["small", "large"]
+			},
+      {
+				"drinkname": "water",
+				"qty": "20",
+				"category": "drinks",
+				"isalcoholic": false,
+				"Calories": "543",
+				"sizes": ["small", "large"]
+			}]
+      
+      
+      
+      
+		}]
+	}
