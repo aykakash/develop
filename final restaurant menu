@@ -26,9 +26,7 @@
 				"price": "10",
 				"Calories": "544",
 				"isveg": true
-			}
-
-		],
+			}],
 		"Drink menu": [{
 				"drinkname": "water",
 				"qty": "20",
@@ -36,8 +34,10 @@
 				"isalcoholic": false,
 				"Calories": "543",
 				"sizes": ["small", "large"]
-			}
+			}]
+		}]
+	}
 
-		]
-	}]
-}
+		
+	
+
