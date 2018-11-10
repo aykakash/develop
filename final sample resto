@@ -66,8 +66,9 @@
 				"photo": "https://as2.ftcdn.net/jpg/00/58/32/43/500_F_58324385_NcB6PYKL7O0BLgvzZMdTMA59OrpszQ5D.jpg",
 				"description": "lassi is very tasty drink",
 				"price": "5$",
-				"isalcoholic": false,
 				"Calories": "654",
+				"isalcoholic": false
+				
 				
 			},
 			{
@@ -75,8 +76,9 @@
 				"photo": "https://images.pexels.com/photos/1282273/pexels-photo-1282273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
 				"description": "cold drink is very tasty drink",
 				"price": "15$",
-				"isalcoholic": false,
 				"Calories": "43",
+				"isalcoholic": false
+				
 				
 			},
 			{
@@ -84,8 +86,9 @@
 				"photo": "https://images.pexels.com/photos/161600/smoothie-fruit-beverage-drink-161600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
 				"description": "mango smoothy is very tasty drink",
 				"price": "25$",
-				"isalcoholic": false,
 				"Calories": "73",
+				"isalcoholic": false
+				
 				
 			},
 			{
@@ -93,8 +96,9 @@
 				"photo": "https://images.pexels.com/photos/68672/beach-beverage-caribbean-cocktail-68672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
 				"description": "vanila shake is very tasty drink",
 				"price": "35$",
-				"isalcoholic": false,
 				"Calories": "83",
+				"isalcoholic": false
+				
 				
 			},
 			{
@@ -102,8 +106,9 @@
 				"photo": "https://images.pexels.com/photos/1232152/pexels-photo-1232152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
 				"description": "virgin mojito is very tasty drink",
 				"price": "45$",
-				"isalcoholic": false,
 				"Calories": "93",
+				"isalcoholic": false
+				
 				
 			}
       ]
