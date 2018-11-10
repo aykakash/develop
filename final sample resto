@@ -20,41 +20,41 @@
 
 
 		"food menu": [{
-				"foodname": "Item name 1",
+				"foodname": "pizza",
 				"photo": "Restaurant photo",
-				"description": "Restaurant description",
+				"description": "pizza is very delicious food ",
 				"price": "10",
 				"Calories": "544",
 				"isveg": true
 			},
       {
-				"foodname": "Item name 1",
+				"foodname": "biryani",
 				"photo": "Restaurant photo",
-				"description": "Restaurant description",
+				"description": "biryani is very delicious food ",
+				"price": "10",
+				"Calories": "544",
+				"isveg": true
+			},
+     {
+				"foodname": "tacos",
+				"photo": "Restaurant photo",
+				"description": "tacos is very delicious food ",
 				"price": "10",
 				"Calories": "544",
 				"isveg": true
 			},
       {
-				"foodname": "Item name 1",
+				"foodname": "nachos",
 				"photo": "Restaurant photo",
-				"description": "Restaurant description",
+				"description": "nachos is very delicious food ",
 				"price": "10",
 				"Calories": "544",
 				"isveg": true
 			},
       {
-				"foodname": "Item name 1",
+				"foodname": "pasta",
 				"photo": "Restaurant photo",
-				"description": "Restaurant description",
-				"price": "10",
-				"Calories": "544",
-				"isveg": true
-			},
-      {
-				"foodname": "Item name 1",
-				"photo": "Restaurant photo",
-				"description": "Restaurant description",
+				"description": "pasta is very delicious food ",
 				"price": "10",
 				"Calories": "544",
 				"isveg": true
@@ -62,48 +62,51 @@
       
       
 		"Drink menu": [{
-				"drinkname": "water",
-				"qty": "20",
-				"category": "drinks",
+				"drinkname": "lassi",
+				"photo": "Restaurant photo",
+				"description": "lassi is very tasty drink",
+				"price": "10",
 				"isalcoholic": false,
 				"Calories": "543",
-				"sizes": ["small", "large"]
+				
 			},
-      {
-				"drinkname": "water",
-				"qty": "20",
-				"category": "drinks",
+			{
+				"drinkname": "cold drink",
+				"photo": "Restaurant photo",
+				"description": "cold drink is very tasty drink",
+				"price": "10",
 				"isalcoholic": false,
 				"Calories": "543",
-				"sizes": ["small", "large"]
+				
 			},
-      
-      {
-				"drinkname": "water",
-				"qty": "20",
-				"category": "drinks",
+			{
+				"drinkname": "mango smoothy",
+				"photo": "Restaurant photo",
+				"description": "mango smoothy is very tasty drink",
+				"price": "10",
 				"isalcoholic": false,
 				"Calories": "543",
-				"sizes": ["small", "large"]
+				
 			},
-      
-      {
-				"drinkname": "water",
-				"qty": "20",
-				"category": "drinks",
+			{
+				"drinkname": "vanila shake",
+				"photo": "Restaurant photo",
+				"description": "vanila shake is very tasty drink",
+				"price": "10",
 				"isalcoholic": false,
 				"Calories": "543",
-				"sizes": ["small", "large"]
+				
 			},
-      {
-				"drinkname": "water",
-				"qty": "20",
-				"category": "drinks",
+			{
+				"drinkname": "virgin mojito",
+				"photo": "Restaurant photo",
+				"description": "virgin mojito is very tasty drink",
+				"price": "10",
 				"isalcoholic": false,
 				"Calories": "543",
-				"sizes": ["small", "large"]
-			}]
-      
+				
+			}
+      ]
       
       
       
