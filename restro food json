@@ -1,52 +1,52 @@
 {
-	"restraurantfood": 
-
-		"food menu": [{
-				"foodname": "pizza",
-				"photo": "https://images.pexels.com/photos/2232/vegetables-italian-pizza-restaurant.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-				"description": "pizza is very delicious food ",
-				"price": "10$",
-				"Calories": "544",
-				"isveg": true
-			},
-			{
-				"foodname": "biryani",
-				"photo": "https://as1.ftcdn.net/jpg/00/35/13/50/500_F_35135040_20zc9QsYjOAwTmT68UhFr8wGWiXb3wvv.jpg",
-				"description": "biryani is very delicious food ",
-				"price": "20$",
-				"Calories": "674",
-				"isveg": true
-			},
-			{
-				"foodname": "tacos",
-				"photo": "https://images.pexels.com/photos/674578/pexels-photo-674578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-				"description": "tacos is very delicious food ",
-				"price": "30$",
-				"Calories": "94",
-				"isveg": true
-			},
-			{
-				"foodname": "nachos",
-				"photo": "https://images.pexels.com/photos/1200354/pexels-photo-1200354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-				"description": "nachos is very delicious food ",
-				"price": "40$",
-				"Calories": "874",
-				"isveg": true
-			},
-			{
-				"foodname": "pasta",
-				"photo": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-				"description": "pasta is very delicious food ",
-				"price": "50$",
-				"Calories": "597",
-				"isveg": true
-			}
-		],
 
 
-		
+	"foodmenu": [{
+			"foodname": "pizza",
+			"photo": "https://images.pexels.com/photos/2232/vegetables-italian-pizza-restaurant.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"description": "pizza is very delicious food ",
+			"price": "10$",
+			"Calories": "544",
+			"isveg": true
+		},
+		{
+			"foodname": "biryani",
+			"photo": "https://as1.ftcdn.net/jpg/00/35/13/50/500_F_35135040_20zc9QsYjOAwTmT68UhFr8wGWiXb3wvv.jpg",
+			"description": "biryani is very delicious food ",
+			"price": "20$",
+			"Calories": "674",
+			"isveg": true
+		},
+		{
+			"foodname": "tacos",
+			"photo": "https://images.pexels.com/photos/674578/pexels-photo-674578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"description": "tacos is very delicious food ",
+			"price": "30$",
+			"Calories": "94",
+			"isveg": true
+		},
+		{
+			"foodname": "nachos",
+			"photo": "https://images.pexels.com/photos/1200354/pexels-photo-1200354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"description": "nachos is very delicious food ",
+			"price": "40$",
+			"Calories": "874",
+			"isveg": true
+		},
+		{
+			"foodname": "pasta",
+			"photo": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"description": "pasta is very delicious food ",
+			"price": "50$",
+			"Calories": "597",
+			"isveg": true
+		}
+	]
 
 
 
-	}]
+
+
+
+
 }
