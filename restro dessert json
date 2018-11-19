@@ -3,7 +3,7 @@
 
 
 	"dessertmenu": [{
-			"drinkname": "TIRAMISU LAYER CAKE",
+			"dessertname": "TIRAMISU LAYER CAKE",
 			"photo": "https://img.sndimg.com/food/image/upload/w_896,h_504,c_fill,fl_progressive,q_80/v1/img/recipes/20/27/85/Ij1SHD8TQ1g4MUz24nQ3_food.com-60.jpg",
 			"description": "TIRAMISU LAYER CAKE is very tasty dessert",
 			"price": "5$",
@@ -13,7 +13,7 @@
 
 		},
 		{
-			"drinkname": "THE CHOCOLATE CAKE",
+			"dessertname": "THE CHOCOLATE CAKE",
 			"photo": "https://img.sndimg.com/food/image/upload/w_896,h_504,c_fill,fl_progressive,q_80/v1/img/recipes/26/37/0/bzwUWgTTGZ83fb1AbjMQ_CC%208%20-%20final_6.jpg",
 			"description": "THE CHOCOLATE CAKE is very tasty dessert",
 			"price": "15$",
@@ -23,7 +23,7 @@
 
 		},
 		{
-			"drinkname": "WHITE CHOCOLATE RASPBERRY CHEESECAKE",
+			"dessertname": "WHITE CHOCOLATE RASPBERRY CHEESECAKE",
 			"photo": "https://img.sndimg.com/food/image/upload/w_896,h_504,c_fill,fl_progressive,q_80/v1/img/recipes/10/52/28/XQM8uRFoR3OLUsRuhV0D_17.jpg",
 			"description": "WHITE CHOCOLATE RASPBERRY CHEESECAKE is very tasty dessert",
 			"price": "25$",
@@ -33,7 +33,7 @@
 
 		},
 		{
-			"drinkname": "LEMON SOUFFLES",
+			"dessertname": "LEMON SOUFFLES",
 			"photo": "https://img.sndimg.com/food/image/upload/w_896,h_504,c_fill,fl_progressive,q_80/v1/img/recipes/52/80/94/9XsiVISSHqYb64kilY3y_lemon%20souffle-1488.jpg",
 			"description": "LEMON SOUFFLES is very tasty dessert",
 			"price": "35$",
@@ -43,7 +43,7 @@
 
 		},
 		{
-			"drinkname": "GREEK BAKLAVA",
+			"dessertname": "GREEK BAKLAVA",
 			"photo": "https://img.sndimg.com/food/image/upload/w_896,h_504,c_fill,fl_progressive,q_80/v1/img/recipes/54/87/2/adfOwroyTgGY7wlrsn6a_baklava-1294.jpg",
 			"description": "GREEK BAKLAVA is very tasty dessert",
 			"price": "45$",
