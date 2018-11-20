@@ -3,50 +3,50 @@
 
 
 	"dessertmenu": [{
-			"dessertname": "TIRAMISU LAYER CAKE",
+			"dessertname": "Tiramisu Layer Cake",
 			"photo": "https://img.sndimg.com/food/image/upload/w_896,h_504,c_fill,fl_progressive,q_80/v1/img/recipes/20/27/85/Ij1SHD8TQ1g4MUz24nQ3_food.com-60.jpg",
-			"description": "TIRAMISU LAYER CAKE is very tasty dessert",
-			"price": "5$",
+			"description": "Tiramisu Layer Cake is very tasty dessert",
+			"price": "5",
 			"Calories": "6024",
 			"iseggless": false
 
 
 		},
 		{
-			"dessertname": "THE CHOCOLATE CAKE",
+			"dessertname": "The Chocolate Cake",
 			"photo": "https://img.sndimg.com/food/image/upload/w_896,h_504,c_fill,fl_progressive,q_80/v1/img/recipes/26/37/0/bzwUWgTTGZ83fb1AbjMQ_CC%208%20-%20final_6.jpg",
-			"description": "THE CHOCOLATE CAKE is very tasty dessert",
-			"price": "15$",
+			"description": "The Chocolate Cake is very tasty dessert",
+			"price": "15",
 			"Calories": "43",
 			"iseggless": false
 
 
 		},
 		{
-			"dessertname": "RASPBERRY CHEESECAKE",
+			"dessertname": "Raspberry Cheesecake",
 			"photo": "https://img.sndimg.com/food/image/upload/w_896,h_504,c_fill,fl_progressive,q_80/v1/img/recipes/10/52/28/XQM8uRFoR3OLUsRuhV0D_17.jpg",
-			"description": "WHITE CHOCOLATE RASPBERRY CHEESECAKE is very tasty dessert",
-			"price": "25$",
+			"description": "Raspberry Cheesecake is very tasty dessert",
+			"price": "25",
 			"Calories": "73",
 			"isalcoholic": false
 
 
 		},
 		{
-			"dessertname": "LEMON SOUFFLES",
+			"dessertname": "Lemon Souffles",
 			"photo": "https://img.sndimg.com/food/image/upload/w_896,h_504,c_fill,fl_progressive,q_80/v1/img/recipes/52/80/94/9XsiVISSHqYb64kilY3y_lemon%20souffle-1488.jpg",
-			"description": "LEMON SOUFFLES is very tasty dessert",
-			"price": "35$",
+			"description": "Lemon Souffles is very tasty dessert",
+			"price": "35",
 			"Calories": "83",
 			"isalcoholic": true
 
 
 		},
 		{
-			"dessertname": "GREEK BAKLAVA",
+			"dessertname": "Greek Baklava",
 			"photo": "https://img.sndimg.com/food/image/upload/w_896,h_504,c_fill,fl_progressive,q_80/v1/img/recipes/54/87/2/adfOwroyTgGY7wlrsn6a_baklava-1294.jpg",
-			"description": "GREEK BAKLAVA is very tasty dessert",
-			"price": "45$",
+			"description": "Greek Baklava is very tasty dessert",
+			"price": "45",
 			"Calories": "93",
 			"isalcoholic": false
 
