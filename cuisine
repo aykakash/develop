@@ -2,128 +2,129 @@
 
 
 
-	"Drinkmenu": ["Afghani"
-"African"
-"American"
-"Andhra"
-"Arabian"
-"Armenian"
-"Asian"
-"Asian Fusion"
-"Assamese"
-"Australian"
-"Awadhi" 
-"Bbq"
-"Bakery"
-"Bar Food"
-"Belgian"
-"Bengali"
-"Beverages"
-"Bihari" 
-"Biryani" 
-"Brazilian" 
-"British" 
-"Bubble Tea" 
-"Burger" 
-"Burmese"
-"Cafe"
-"Cafe Food" 
-"Cantonese" 
-"Charcoal" 
-"Chicken" 
-"Chettinad" 
-"Chinese"
-"Coffee" 
-"Coffee and Tea" 
-"Continental" 
-"Crepes" 
-"Desserts" 
-"Drinks Only" 
-"Dumplings" 
-"Ethiopian"
-"European" 
-"Falafel" 
-"Finger Food" 
-"Fish and Chips" 
-"French" 
-"Fried Chicken" 
-"Fusion" 
-"German" 
-"Goan" 
-"Greek" 
-"Grill" 
-"Gujarati" 
-"Healthy Food"
-"Hyderabadi" 
-"Ice Cream" 
-"Indian" 
-"Indonesian" 
-"Iranian"
-"Italian"
-"Japanese"
-"Juices" 
-"Kashmiri"
-"Kebab"
-"Kerala" 
-"Korean" 
-"Korean Bbq"
-"Latin American" 
-"Lebanese" 
-"Lucknowi" 
-"Maharashtrian"
-"Malaysian" 
-"Mangalorean"
-"Mediterranean"
-"Mexican" 
-"Middle Eastern" 
-"Mishti"
-"Mithai" 
-"Modern Indian"
-"Momos" 
-"Moroccan"
-"Mughlai"
-"Naga"
-"Nepalese"
-"North Eastern"
-"North Indian"
-"Oriental"
-"Oriya"
-"Paan" 
-"Pakistani" 
-"Pan Asian" 
-"Parsi" 
-"Patisserie" 
-"Peruvian" 
-"Pizza"
-"Poké" 
-"Portuguese" 
-"Pub Food"
-"Rajasthani"
-"Ramen"
-"Roast" 
-"Roast Chicken"
-"Rolls"
-"Russian"
-"Salad"
-"Sandwich"
-"Satay" 
-"Seafood"
-"Sindhi"
-"Singaporean" 
-
-"South American"
-"South Indian" 
-"Spanish"
-"Sri Lankan" 
-"Steak" 
-"Street Food" 
-"Sushi" 
-"Tea" 
-"Tex-mex" 
-"Thai"
-"Tibetan"
-"Turkish"
-"Vegetarian" 
-"Vietnamese" 
-"Wraps"
-]}
+	"cuisine": [
+		"Afghani",
+		"African",
+		"American",
+		"Andhra",
+		"Arabian",
+		"Armenian",
+		"Asian",
+		"Asian Fusion",
+		"Assamese",
+		"Australian",
+		"Awadhi",
+		"Bbq",
+		"Bakery",
+		"Bar Food",
+		"Belgian",
+		"Bengali",
+		"Beverages",
+		"Bihari",
+		"Biryani",
+		"Brazilian",
+		"British",
+		"Bubble Tea",
+		"Burger",
+		"Burmese",
+		"Cafe",
+		"Cafe Food",
+		"Cantonese",
+		"Charcoal",
+		"Chicken",
+		"Chettinad",
+		"Chinese",
+		"Coffee",
+		"Coffee and Tea",
+		"Continental",
+		"Crepes",
+		"Desserts",
+		"Drinks Only",
+		"Dumplings",
+		"Ethiopian",
+		"European",
+		"Falafel",
+		"Finger Food",
+		"Fish and Chips",
+		"French",
+		"Fried Chicken",
+		"Fusion",
+		"German",
+		"Goan",
+		"Greek",
+		"Grill",
+		"Gujarati",
+		"Healthy Food",
+		"Hyderabadi",
+		"Ice Cream",
+		"Indian",
+		"Indonesian",
+		"Iranian",
+		"Italian",
+		"Japanese",
+		"Juices",
+		"Kashmiri",
+		"Kebab",
+		"Kerala",
+		"Korean",
+		"Korean Bbq",
+		"Latin American",
+		"Lebanese",
+		"Lucknowi",
+		"Maharashtrian",
+		"Malaysian",
+		"Mangalorean",
+		"Mediterranean",
+		"Mexican",
+		"Middle Eastern",
+		"Mishti",
+		"Mithai",
+		"Modern Indian",
+		"Momos",
+		"Moroccan",
+		"Mughlai",
+		"Naga",
+		"Nepalese",
+		"North Eastern",
+		"North Indian",
+		"Oriental",
+		"Oriya",
+		"Paan",
+		"Pakistani",
+		"Pan Asian",
+		"Parsi",
+		"Patisserie",
+		"Peruvian",
+		"Pizza",
+		"Poké",
+		"Portuguese",
+		"Pub Food",
+		"Rajasthani",
+		"Ramen",
+		"Roast",
+		"Roast Chicken",
+		"Rolls",
+		"Russian",
+		"Salad",
+		"Sandwich",
+		"Satay",
+		"Seafood",
+		"Sindhi",
+		"Singaporean",
+		"South American",
+		"South Indian",
+		"Spanish",
+		"Sri Lankan",
+		"Steak",
+		"Street Food",
+		"Sushi",
+		"Tea",
+		"Tex-mex",
+		"Thai",
+		"Tibetan",
+		"Turkish",
+		"Vegetarian",
+		"Vietnamese",
+		"Wraps"
+	]
+}
