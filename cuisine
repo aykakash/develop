@@ -1,4 +1,8 @@
-"Afghani"
+{
+
+
+
+	"Drinkmenu": ["Afghani"
 "African"
 "American"
 "Andhra"
@@ -107,18 +111,19 @@
 "Sindhi"
 "Singaporean" 
 
-South American
-South Indian 
-Spanish
-Sri Lankan 
-Steak 
-Street Food 
-Sushi 
-Tea 
-Tex-mex 
-Thai
-Tibetan
-Turkish
-Vegetarian 
-Vietnamese 
-Wraps
+"South American"
+"South Indian" 
+"Spanish"
+"Sri Lankan" 
+"Steak" 
+"Street Food" 
+"Sushi" 
+"Tea" 
+"Tex-mex" 
+"Thai"
+"Tibetan"
+"Turkish"
+"Vegetarian" 
+"Vietnamese" 
+"Wraps"
+]}
