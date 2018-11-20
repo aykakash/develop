@@ -13,7 +13,7 @@
 			"sodium " : "551mg",
 			"cholesterol": "14mg",
                         "catagory" : "Starters And Appetisers",
-			"isveg": true
+			"isveg": "veg and Nonveg"
 		},
 		{
 			"foodname": "biryani",
@@ -32,7 +32,7 @@
 			
                         "catagory" : "Mains",
 			"Calories": "292",
-			"isveg": true
+			"isveg": "veg and Nonveg"
 		},
 		{
 			"foodname": "tacos",
@@ -50,7 +50,7 @@
 			"serving": "Per taco(102g)",
 			
 			"Calories": "210",
-			"isveg": true
+			"isveg": "veg and Nonveg"
 		},
 		{
 			"foodname": "nachos with salsa sause",
@@ -68,7 +68,7 @@
 			"serving": "Per Order(550g)",
 			
 			"Calories": "874",
-			"isveg": true
+			"isveg": "veg and Nonveg"
 		},
 		{
 			"foodname": "Tipsy Licious Pasta",
@@ -86,7 +86,7 @@
 			"cholesterol": "0mg",
 			
 			"Calories": "196",
-			"isveg": true
+			"isveg": "veg and Nonveg"
 		}
 	]
 
