@@ -7,6 +7,7 @@
 			"description": "pizza is very delicious food ",
 			"price": "10",
 			"Calories": "544",
+      "catagory" : "Starters And Appetisers",
 			"isveg": true
 		},
 		{
@@ -14,6 +15,7 @@
 			"photo": "https://as1.ftcdn.net/jpg/00/35/13/50/500_F_35135040_20zc9QsYjOAwTmT68UhFr8wGWiXb3wvv.jpg",
 			"description": "biryani is very delicious food ",
 			"price": "20",
+      "catagory" : "Mains",
 			"Calories": "674",
 			"isveg": true
 		},
@@ -22,6 +24,7 @@
 			"photo": "https://images.pexels.com/photos/674578/pexels-photo-674578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
 			"description": "tacos is very delicious food ",
 			"price": "30",
+      "catagory" : "Sides",
 			"Calories": "94",
 			"isveg": true
 		},
@@ -30,6 +33,7 @@
 			"photo": "https://images.pexels.com/photos/1200354/pexels-photo-1200354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
 			"description": "nachos is very delicious food ",
 			"price": "40",
+      "catagory" : "Burgers",
 			"Calories": "874",
 			"isveg": true
 		},
@@ -38,6 +42,7 @@
 			"photo": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
 			"description": "pasta is very delicious food ",
 			"price": "50",
+      "catagory" : "Pizza And Pasta",
 			"Calories": "597",
 			"isveg": true
 		}
