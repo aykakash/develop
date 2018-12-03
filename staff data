@@ -97,7 +97,27 @@
 			"working since": "1 year"
 
 
+		},
+		{
+			"desegnation": "manager",
+			"photo": "https://images.pexels.com/photos/793253/pexels-photo-793253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"photo2": "https://images.pexels.com/photos/937481/pexels-photo-937481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"photo3": "https://images.pexels.com/photos/716411/pexels-photo-716411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			
+			"description": "Tiramisu Layer Cake is very tasty dessert",
+			"name": "vaibhav thakur",
+       "instagram": "anil123thakur",
+      "facebook": "anil123",
+      "snapchat": "anil123",
+       "gmail": "anil123@gmail.com",
+      "whatsapp": "7042054093",
+      "linkedin": "anil123",
+      "twitter": "anil123",
+			"rating": "8",
+			"working since": "3 year"
+
 		}
+		
 	]
 
 
