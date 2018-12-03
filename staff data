@@ -5,6 +5,8 @@
 	"staff": [{
 			"desegnation": "owner",
 			"photo": "https://images.pexels.com/photos/450271/pexels-photo-450271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"photo2": "https://images.pexels.com/photos/736716/pexels-photo-736716.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+			"photo3": "https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
 			"description": "Tiramisu Layer Cake is very tasty dessert",
 			"name": "anil",
       "instagram": "anil123",
@@ -22,6 +24,8 @@
 		{
 			"desegnation": "manager",
 			"photo": "https://images.pexels.com/photos/793253/pexels-photo-793253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"photo2": "https://images.pexels.com/photos/937481/pexels-photo-937481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"photo3": "https://images.pexels.com/photos/716411/pexels-photo-716411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
 			"description": "Tiramisu Layer Cake is very tasty dessert",
 			"name": "vaibhav",
        "instagram": "anil123",
@@ -38,6 +42,8 @@
 		{
 			"desegnation": "accountant",
 			"photo": "https://images.pexels.com/photos/842567/pexels-photo-842567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"photo2": "https://images.pexels.com/photos/1056549/pexels-photo-1056549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"photo3": "https://images.pexels.com/photos/927451/pexels-photo-927451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
 			"description": "Tiramisu Layer Cake is very tasty dessert",
 			"name": "rajesh",
        "instagram": "anil123",
@@ -55,6 +61,8 @@
 		{
 			"desegnation": "chef",
 			"photo": "https://images.pexels.com/photos/33610/cooking-smoking-cigarette-kitchen.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"photo2": "https://images.pexels.com/photos/280009/pexels-photo-280009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"photo3": "https://images.pexels.com/photos/1397514/pexels-photo-1397514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
 			"description": "Tiramisu Layer Cake is very tasty dessert",
 			"name": "raj",
 			"rating": "5",
@@ -72,6 +80,8 @@
 		{
 			"desegnation": "bartender",
 			"photo": "https://images.pexels.com/photos/1267323/pexels-photo-1267323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"photo2": "https://images.pexels.com/photos/1267298/pexels-photo-1267298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"photo3": "https://images.pexels.com/photos/681846/pexels-photo-681846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
 			"description": "Tiramisu Layer Cake is very tasty dessert",
 			"name": "sonu",
 			"rating": "10",
