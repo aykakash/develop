@@ -2,13 +2,9 @@
 
 
 	"special": [{
-			"foodname": "Tipsy Licious Pasta",
+			
 			"photo": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-			"photo2": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-			"description": "Penne tossed with pomodoro tomato cream sauce flamed with vodka.",
-			"offer": "buy 1 get 2",
-			"discount": "20%"
-
+			
 
 		},
 
