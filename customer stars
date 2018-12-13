@@ -1,0 +1,49 @@
+{
+
+
+	"customer": [{
+			"name": "akash",
+      "photo": "https://images.pexels.com/photos/899357/pexels-photo-899357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "star": "85",
+      "instagram": "akash123",
+      "snapchat": "akash123"
+			
+		},
+	
+	
+	{
+		"name": "sunil",
+      "photo": "https://images.pexels.com/photos/904124/pexels-photo-904124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "star": "67",
+      "instagram": "sunil123",
+      "snapchat": "sunil123"
+		},
+		{
+			"name": "vishal sharma",
+      "photo": "https://images.pexels.com/photos/905470/pexels-photo-905470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "star": "40",
+      "instagram": "vishal123",
+      "snapchat": "vishal123"
+		},
+		{
+			"name": "kavita jha",
+      "photo": "https://images.pexels.com/photos/1198957/pexels-photo-1198957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "star": "37",
+      "instagram": "kavita123",
+      "snapchat": "kavita123"
+		},
+		{
+			"name": "sonali",
+      "photo": "https://images.pexels.com/photos/1581442/pexels-photo-1581442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "star": "20",
+      "instagram": "sonali123",
+      "snapchat": "sonali123"
+		}
+		
+	]
+
+}
+
+
+
+
