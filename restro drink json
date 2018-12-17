@@ -8,7 +8,7 @@
 			"description": "lassi is very tasty drink",
 			"price": "5",
 			"Calories": "654",
-			"isalcoholic": false
+			"isalcoholic": "NO"
 
 
 		},
@@ -18,7 +18,7 @@
 			"description": "cold drink is very tasty drink",
 			"price": "15",
 			"Calories": "43",
-			"isalcoholic": false
+			"isalcoholic": "NO"
 
 
 		},
@@ -28,7 +28,7 @@
 			"description": "mango smoothy is very tasty drink",
 			"price": "25",
 			"Calories": "73",
-			"isalcoholic": false
+			"isalcoholic": "NO"
 
 
 		},
@@ -38,7 +38,7 @@
 			"description": "vanila shake is very tasty drink",
 			"price": "35",
 			"Calories": "83",
-			"isalcoholic": false
+			"isalcoholic": "NO"
 
 
 		},
@@ -48,7 +48,7 @@
 			"description": "virgin mojito is very tasty drink",
 			"price": "45",
 			"Calories": "93",
-			"isalcoholic": false
+			"isalcoholic": "NO"
 
 
 		}
