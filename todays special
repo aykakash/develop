@@ -4,7 +4,7 @@
 	"special": [{
 			
 			"foodname": "",
-			"photo": "https://images.pexels.com/photos/1051744/pexels-photo-1051744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"photo": "https://firebasestorage.googleapis.com/v0/b/restaurantapp-69d4f.appspot.com/o/offer.gif?alt=media&token=5c1b6f8b-ea96-4e82-ada7-c736b24e13e7",
 			"photo2": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
 			"description": "",
 			"offer": "",
