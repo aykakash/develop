@@ -8,7 +8,7 @@
 			"description": "Tiramisu Layer Cake is very tasty dessert",
 			"price": "5",
 			"Calories": "6024",
-			"iseggless": false
+			"iseggless": "YES"
 
 
 		},
@@ -18,7 +18,7 @@
 			"description": "The Chocolate Cake is very tasty dessert",
 			"price": "15",
 			"Calories": "43",
-			"iseggless": false
+			"iseggless": "YES"
 
 
 		},
@@ -28,7 +28,7 @@
 			"description": "Raspberry Cheesecake is very tasty dessert",
 			"price": "25",
 			"Calories": "73",
-			"isalcoholic": false
+			"isalcoholic": "YES"
 
 
 		},
@@ -38,7 +38,7 @@
 			"description": "Lemon Souffles is very tasty dessert",
 			"price": "35",
 			"Calories": "83",
-			"isalcoholic": true
+			"isalcoholic": "NO"
 
 
 		},
@@ -48,7 +48,7 @@
 			"description": "Greek Baklava is very tasty dessert",
 			"price": "45",
 			"Calories": "93",
-			"isalcoholic": false
+			"isalcoholic": "YES"
 
 
 		}
