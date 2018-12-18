@@ -24,12 +24,66 @@
 
 		},
 		{
-			"foodname": "Tipsy Licious Pasta",
-			"photo": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"foodname": "Lunch meal only @179",
+			"photo": "https://firebasestorage.googleapis.com/v0/b/restaurantapp-69d4f.appspot.com/o/special%20offers%2F1%20(1).jpg?alt=media&token=f7993101-1e6e-45e5-8c62-25c6f3c083f8",
 			"photo2": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-			"description": "Penne tossed with pomodoro tomato cream sauce flamed with vodka.",
-			"offer": "",
+			"description": "offer for this week only. grab yours",
+			"offer": "Offer: meal for @179",
+			"discount": "Discount: 10%"
+
+		},
+		{
+			"foodname": "Get Your discount voucher ",
+			"photo": "https://firebasestorage.googleapis.com/v0/b/restaurantapp-69d4f.appspot.com/o/special%20offers%2F1%20(2).jpg?alt=media&token=f7289490-f49f-4b63-a86d-ecb12ef9a77c",
+			"photo2": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"description": "grab your discount voucher today",
+			"offer": "Offer: voucher left 30",
+			"discount": "Discount: 30%"
+
+		},
+		{
+			"foodname": "Friday special deal",
+			"photo": "https://firebasestorage.googleapis.com/v0/b/restaurantapp-69d4f.appspot.com/o/special%20offers%2F1%20(3).jpg?alt=media&token=f60ba9c9-3fe7-4d6e-9649-0015b206a694",
+			"photo2": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"description": "every friday you will get the 50% discount on every bill",
+			"offer": "Offer: friday special",
 			"discount": "Discount: 50%"
+
+		},
+		{
+			"foodname": "Lunch special",
+			"photo": "https://firebasestorage.googleapis.com/v0/b/restaurantapp-69d4f.appspot.com/o/special%20offers%2F1%20(4).jpg?alt=media&token=65772195-d346-4441-9460-10b679a43cc4",
+			"photo2": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"description": "get a free drink for lunch on every monday. grab it on hurry ......",
+			"offer": "offer: free drink",
+			"discount": ""
+
+		},
+		{
+			"foodname": "special discount",
+			"photo": "https://firebasestorage.googleapis.com/v0/b/restaurantapp-69d4f.appspot.com/o/special%20offers%2F1%20(5).jpg?alt=media&token=1d85cc4b-1494-4de9-89ae-007793f2e89f",
+			"photo2": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"description": "special discount of 15% tomorrow come and grab",
+			"offer": "Offer: special discount",
+			"discount": "Discount: 15%"
+
+		},
+		{
+			"foodname": "Order for free",
+			"photo": "https://firebasestorage.googleapis.com/v0/b/restaurantapp-69d4f.appspot.com/o/special%20offers%2F1%20(6).jpg?alt=media&token=772797b3-e723-4adf-a1ed-eaa215ad33a5",
+			"photo2": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"description": "if you order over 1000rs you will get free delivery",
+			"offer": "Offer: free delivery",
+			"discount": ""
+
+		},
+		{
+			"foodname": "offer offer offer",
+			"photo": "https://firebasestorage.googleapis.com/v0/b/restaurantapp-69d4f.appspot.com/o/special%20offers%2F1%20(7).jpg?alt=media&token=64cffb70-b391-4294-b3a7-5e04701331a3",
+			"photo2": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"description": "eat sleep repeat",
+			"offer": "",
+			"discount": ""
 
 		}
 
