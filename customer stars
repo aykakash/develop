@@ -3,7 +3,7 @@
 
 	"customer": [{
 			"name": "akash",
-      "photo": "https://images.pexels.com/photos/899357/pexels-photo-899357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "photo": "https://cdn.pixabay.com/photo/2018/04/27/03/50/portrait-3353699_960_720.jpg",
       "star": "85",
       "instagram": "akash123",
       "snapchat": "akash123"
@@ -20,7 +20,7 @@
 		},
 		{
 			"name": "vishal sharma",
-      "photo": "https://images.pexels.com/photos/905470/pexels-photo-905470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "photo": "https://cdn.pixabay.com/photo/2017/03/05/17/34/boy-2119178_960_720.jpg",
       "star": "40",
       "instagram": "vishal123",
       "snapchat": "vishal123"
