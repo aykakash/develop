@@ -268,11 +268,11 @@
 
 		},
 		{
-			"foodname": "Order for free",
-			"photo": "https://firebasestorage.googleapis.com/v0/b/restaurantapp-69d4f.appspot.com/o/special%20offers%2F1%20(6).jpg?alt=media&token=772797b3-e723-4adf-a1ed-eaa215ad33a5",
-			"photo2": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-			"description": "if you order over 1000rs you will get free delivery",
-			"offer": "Offer: free delivery",
+			"foodname": "",
+			"photo": "",
+			"photo2": "",
+			"description": "",
+			"offer": "",
 			"discount": ""
 
 		},
