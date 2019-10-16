@@ -259,12 +259,12 @@
 
 		},
 		{
-			"foodname": "special discount",
-			"photo": "https://firebasestorage.googleapis.com/v0/b/restaurantapp-69d4f.appspot.com/o/special%20offers%2F1%20(5).jpg?alt=media&token=1d85cc4b-1494-4de9-89ae-007793f2e89f",
-			"photo2": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-			"description": "special discount of 15% tomorrow come and grab",
-			"offer": "Offer: special discount",
-			"discount": "Discount: 15%"
+			"foodname": "",
+			"photo": "",
+			"photo2": "",
+			"description": "",
+			"offer": "",
+			"discount": ""
 
 		},
 		{
@@ -277,10 +277,10 @@
 
 		},
 		{
-			"foodname": "offer offer offer",
-			"photo": "https://firebasestorage.googleapis.com/v0/b/restaurantapp-69d4f.appspot.com/o/special%20offers%2F1%20(7).jpg?alt=media&token=64cffb70-b391-4294-b3a7-5e04701331a3",
-			"photo2": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-			"description": "eat sleep repeat",
+			"foodname": "",
+			"photo": "",
+			"photo2": "",
+			"description": "",
 			"offer": "",
 			"discount": ""
 
